@@ -1,0 +1,63 @@
+nav {
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+    text-align: center;
+    padding: 2%;
+    padding-left: 3%;
+    width: 100%;
+    margin-top: -1%;
+    margin-left: -1%;
+    border-bottom: 2px solid rgb(255, 255, 255);
+}
+
+nav a {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 125%;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+body {
+    background-image: url(https://images.pexels.com/photos/1072824/pexels-photo-1072824.jpeg?_gl=1*fcf2a5*_ga*NzcxNzYyMzM4LjE3NjA0OTMxMzc.*_ga_8JE65Q40S6*czE3NjA0OTMxMzYkbzEkZzEkdDE3NjA0OTMxNDMkajUzJGwwJGgw);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1 {
+    text-align: center;
+    font-size: 500%;
+}
+
+h2 {
+    text-align: center;
+    font-size: 300%;
+    color: black;
+    background-color: white;
+    border: 2px solid black;
+}
+
+h3 {
+    margin: 3%;
+    font-size: 250%;
+}
+
+#main {
+    background-color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+}
+
+#content {
+    margin: 3%;
+    background-color: rgb(255, 255, 255);
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    width: 40%;
+    display: inline-block;
+}

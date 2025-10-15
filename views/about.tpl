@@ -1,17 +1,20 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>About Page</title>
-    <link rel="stylesheet" href="/static/style.css">
+    <title>About page</title>
+    <link rel="stylesheet" href="/static/about.css">
 </head>
 <body>
     <nav>
         <a href="/">Home</a>
-        <a href="/about">About</a>
-        <a href="/contact">Contact</a>
+        <a href="/about">About me</a>
+        <a href="/climate">About the climate</a>
+        <a href="/solution">Solutions</a>
     </nav>
-
-    <h1>About us</h1>
-    <p>This is the about page with information about our project.</p>
+    <h1>About myself</h1>
+    <div>
+    <h2>Welcome</h2>
+    <h3>Hello I am Matheo Rafols</strong> and I Play Basketball<strong>. Also I love to play Football, and I am a year 11 student from Sacred Heart College <strong> 
+    </div>
 </body>
 </html>

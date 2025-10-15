@@ -1,0 +1,60 @@
+nav {
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+    text-align: center;
+    padding: 1%;
+    padding-left: 0%;
+    width: 100%;
+    margin-top: -1%;
+    margin-left: -1%;
+    border-bottom: 2px solid rgb(250, 250, 250);
+}
+
+nav a {
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 150%;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+body {
+    background-image: url(https://images.pexels.com/photos/1072824/pexels-photo-1072824.jpeg?_gl=1*fcf2a5*_ga*NzcxNzYyMzM4LjE3NjA0OTMxMzc.*_ga_8JE65Q40S6*czE3NjA0OTMxMzYkbzEkZzEkdDE3NjA0OTMxNDMkajUzJGwwJGgw);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1 {
+    text-align: center;
+    font-size: 500%;
+}
+
+h2 {
+    text-align: center;
+    font-size: 300%;
+    color: black;
+    background-color: white;
+    border: 2px solid rgb(0, 255, 21);
+}
+
+h3 {
+    margin: 3%;
+    font-size: 250%;
+}
+
+div {
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+img {
+    display: inline-block;
+    height: 100px;
+    width: auto;
+    margin: 3%;
+    border-radius: 10px;
+}
