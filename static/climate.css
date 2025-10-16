@@ -23,7 +23,7 @@ nav a:hover {
 }
 
 body {
-    background-image: url(https://images.pexels.com/photos/1072824/pexels-photo-1072824.jpeg?_gl=1*fcf2a5*_ga*NzcxNzYyMzM4LjE3NjA0OTMxMzc.*_ga_8JE65Q40S6*czE3NjA0OTMxMzYkbzEkZzEkdDE3NjA0OTMxNDMkajUzJGwwJGgw);
+    background-image: url(https://images.unsplash.com/photo-1503614472-8c93d56e92ce?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8NGslMjBsYW5kc2NhcGV8ZW58MHx8MHx8fDA%3D&fm=jpg&q=60&w=3000);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -60,6 +60,8 @@ h4 {
     margin: 3%;
     width: 50%;
     padding-bottom: 5%;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(0, 255, 0);
 }
 
 div {
