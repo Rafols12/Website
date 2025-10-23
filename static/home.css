@@ -1,13 +1,12 @@
 nav {
-    background-color: rgb(255, 255, 255);
+    background-color: rgba(255, 255, 255, 0.801);
     overflow: hidden;
     text-align: center;
-    padding: 2%;
-    padding-left: 3%;
+    padding: 1%;
+    padding-left: 2%;
     width: 100%;
     margin-top: -1%;
     margin-left: -1%;
-    border-bottom: 2px solid rgb(9, 255, 0);
 }
 
 nav a {
@@ -25,8 +24,6 @@ nav a:hover {
 body {
     background-image: url(https://images.unsplash.com/photo-1503614472-8c93d56e92ce?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8NGslMjBsYW5kc2NhcGV8ZW58MHx8MHx8fDA%3D&fm=jpg&q=60&w=3000);
     background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
 }
 
 h1 {
@@ -37,9 +34,7 @@ h1 {
 h2 {
     text-align: center;
     font-size: 300%;
-    color: rgb(255, 255, 255);
-    background-color: rgb(255, 255, 255);
-    border: 2px solid rgb(42, 253, 0);
+    color: rgb(0, 0, 0);
 }
 
 h3 {
@@ -48,16 +43,7 @@ h3 {
 }
 
 #main {
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: rgba(255, 255, 255, 0.616);
     text-align: center;
 }
 
-#content {
-    margin: 3%;
-    background-color: rgb(255, 255, 255);
-    border-width: 2px;
-    border-style: solid;
-    border-radius: 5px;
-    width: 40%;
-    display: inline-block;
-}
